@@ -1,0 +1,26 @@
+<annotation>
+	<folder>VOC2012</folder>
+	<filename>7.jpg</filename>
+	<path>/home/jasper/stf/VOCdevkit/VOC2012/JPEGImages/7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>717</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>st</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>578</xmin>
+			<ymin>264</ymin>
+			<xmax>656</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>
